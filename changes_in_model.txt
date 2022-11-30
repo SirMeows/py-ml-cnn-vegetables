@@ -1,0 +1,4 @@
+removed hidden layers
+learning rate fromm 0.01 to 0.001
+4 epocs instead of 20
+used more filters
